@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk2a282ZmY2Zzdsamw0Z2V5OXM4Y2lueWN5cjQ5NWtkOXJrNWdhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zs4qUlMXqtB6hXUXq/giphy.gif"  />
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk2a282ZmY2Zzdsamw0Z2V5OXM4Y2lueWN5cjQ5NWtkOXJrNWdhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zs4qUlMXqtB6hXUXq/giphy.gif"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.google.com/imgres?q=mark%20fighting%20conquest%20gif&imgurl=https%3A%2F%2Fstatic0.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2Fmark-grayson-looking-up-at-conquest-floating-above-him-in-invincible.jpg&imgrefurl=https%3A%2F%2Fscreenrant.com%2Finvincible-season-3-finale-clip-mark-conquest%2F&docid=GPKYZy3LXeLxvM&tbnid=9JYECL0sJ9NrYM&vet=12ahUKEwiN6bD76oeMAxXeFlkFHa5IAMoQM3oECFgQAA..i&w=1800&h=900&hcb=2&ved=2ahUKEwiN6bD76oeMAxXeFlkFHa5IAMoQM3oECFgQAA" height="220" alt="streak graph"  />
+  <img src="https://media.giphy.com/media/9hR8Dv4tYNYeWriXXC/giphy.gif?cid=790b7611bsbk6vo2pbaslmx9zvseth5290ddzxszwpi11ygh&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"   />
 </div>
 
 ###
