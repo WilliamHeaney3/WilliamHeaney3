@@ -44,7 +44,6 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
 </div>
-![image](https://github.com/user-attachments/assets/ebe6c0d0-c39f-4fa7-9e90-38e610c7a1ab)
 
 
 ###
